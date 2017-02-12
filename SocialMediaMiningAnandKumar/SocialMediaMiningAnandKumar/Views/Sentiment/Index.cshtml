@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Sentiment", FormMethod.Post))
+{
+    
+   
+    <p><input type="text" value="@ViewBag.sentence" name="sentence" id="sentence" /></p>
+    <p><input type="submit" value="Submit" /></p>
+    @if (Model!= null)
+    {
+
+    }
+}
+

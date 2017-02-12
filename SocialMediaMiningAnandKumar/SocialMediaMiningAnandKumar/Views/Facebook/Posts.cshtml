@@ -1,0 +1,71 @@
+﻿@model SocialMediaMiningAnandKumar.Models.SocialMedia.Facebook.posts
+@{
+    ViewBag.Title = "Posts";
+}
+
+<h2>Posts</h2>
+@*<p>@Html.Raw(ViewBag.JSON)</p>*@
+
+<div class="panel-group">
+    @if (Model.feed != null)
+    {
+        if(Model.feed.data !=null)
+        {
+            foreach(var post in Model.feed.data)
+            {
+                <div class="panel-heading">@post.created_time  - @post.story</div>
+                <div class="panel-body">
+                    @if (!String.IsNullOrEmpty(post.message))
+                    {
+                    <p>@post.message</p>
+                    }
+                    @if (post.attachments != null)
+                    {
+                        if (post.attachments.data != null)
+                        {
+                            foreach (var attachement in post.attachments.data)
+                            {
+                                if (attachement.media != null)
+                                { 
+                                   if(attachement.target !=null)
+                                    {
+
+                                        <p><a href="@attachement.target.url"><img src="@attachement.media.image.src" width="400" /></a></p>
+                                    }
+                                    else
+                                    {
+                                        <p><img src="@attachement.media.image.src" width="400" /></p>
+                                    }
+
+                                }
+                            }
+                        }
+                    }
+
+                </div>
+                <div class="panel-footer">
+                    @if (post.likes != null)
+                    {
+                        if (post.likes.data != null)
+                        {
+                           <p>Like = @post.likes.data.Length</p> 
+                        }
+                    }
+                    @if (post.comments != null)
+                    {
+                        if (post.comments.data != null)
+                        {
+                         <ul>
+                        @foreach (var comment in post.comments.data)
+                        {
+                            <li>@comment.message</li>
+                        }
+
+                    </ul>  }
+                    }
+                </div>
+            }
+        }
+    }
+</div>
+
