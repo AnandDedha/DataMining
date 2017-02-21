@@ -1,0 +1,133 @@
+﻿@model MVC.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfBirth)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreateDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreateDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Addresses)
+        </dt>
+
+        <dd>
+            <ul>
+                @foreach (MVC.Models.Address item in Model.Addresses)
+                {
+                    <li>
+                        @item.City @item.Country @item.ProvinceState @item.PostalCode
+                    </li>
+                }
+            </ul>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentCourses)
+        </dt>
+
+        <dd>
+            <ul id="Courses"></ul>
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StudentId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+@section scripts {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var url = "@Url.Action("Get", "Addresses", new { StudentId=Model.StudentId })";
+            $.get(url, function (data, status) {
+                var output = "";
+                $.each(data, function (index, item) {
+                    output += '<li>';
+                    output += item.City + ' ,';
+                    output += item.ProvinceState + ', ';
+                    output += item.PostalCode + ' ,';
+                    output += item.Country + ' ,';
+                    output += '</li>';
+
+                });
+                Addresses.innerHTML = output;
+
+
+            });
+
+            url = "@Url.Action("Get", "StudentCourses", new { StudentId=Model.StudentId })";
+            $.get(url, function (data, status) {
+                var output = "";
+                $.each(data, function (index, item) {
+                    console.log(data)
+                    output += '<li>';
+                    output += item.Course.Coursecode + ' ,';
+                    //output += item.Course.CourseName + ' ,';
+                    output += item.Course.CourseName ;
+                    output += '</li>';
+
+                });
+                Courses.innerHTML = output;
+            });
+        });
+    </script>
+
+}
