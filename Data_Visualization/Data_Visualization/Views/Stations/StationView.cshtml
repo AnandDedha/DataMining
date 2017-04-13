@@ -1,0 +1,111 @@
+﻿@model IEnumerable<Data_Visualization.Models.station>
+
+@{
+    ViewBag.Title = "StationView";
+}
+
+<h2>StationView</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.terminalName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.lastCommWithServer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.latitude)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.longitude)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.installed)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.locked)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.installDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.removalDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.temporary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.isPublic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nbBikes)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nbEmptyDocks)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.latestUpdateTime)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.terminalName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.lastCommWithServer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.latitude)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.longitude)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.installed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.locked)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.installDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.removalDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.temporary)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.isPublic)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nbBikes)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nbEmptyDocks)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.latestUpdateTime)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

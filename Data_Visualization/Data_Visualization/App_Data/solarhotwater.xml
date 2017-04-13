@@ -1,0 +1,2761 @@
+﻿<?xml version="1.0"?>
+<SOLARHOTWATER>
+  <ROWSET>
+    <ROW>
+      <PERMIT_NUM>09 135007</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>4</STREET_NUM>
+      <STREET_NAME>GRANDVIEW</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/05/07</APPLICATION_DATE>
+      <ISSUED_DATE>2009/05/11</ISSUED_DATE>
+      <COMPLETED_DATE>2010/10/05</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>installation of solar hot water heating (supplemantary) system complete with dual panel (5m2) solar collector on roof projecting 1.2m above roof line.  </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 135023</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>81</STREET_NUM>
+      <STREET_NAME>JONES</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/05/07</APPLICATION_DATE>
+      <ISSUED_DATE>2009/05/11</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Installation of a roof top solar water heating system with connection to potable water heating system </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 136204</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>114</STREET_NUM>
+      <STREET_NAME>BOULTBEE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/05/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/05/20</ISSUED_DATE>
+      <COMPLETED_DATE>2011/01/14</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Proposal to install a dual collector solar panel on the roof of existing SFD.  South Elevation.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 148320</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>Converted House</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>899</STREET_NUM>
+      <STREET_NAME>GERRARD</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION>E</STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/06/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/08/17</ISSUED_DATE>
+      <COMPLETED_DATE>2010/03/03</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors (certified model number 09-148270-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 148341</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>201</STREET_NUM>
+      <STREET_NAME>LOGAN</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/06/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/08/17</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors for solar hot water heating system. (09 148268 CE)Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 148351</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>5</STREET_NUM>
+      <STREET_NAME>BROWNING</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/06/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/08/17</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/15</COMPLETED_DATE>
+      <STATUS>Cancelled</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 152120</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>271</STREET_NUM>
+      <STREET_NAME>LESLIE</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/06/19</APPLICATION_DATE>
+      <ISSUED_DATE>2010/02/03</ISSUED_DATE>
+      <COMPLETED_DATE>2010/07/14</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on roof of existing building for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 153159</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>11</STREET_NUM>
+      <STREET_NAME>BRIGHTON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/08/04</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/18</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>
+        Installation of 2 solar collectors in the rear yard (accessory building) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 153172</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>69</STREET_NUM>
+      <STREET_NAME>GREENFIELD</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M9B</POSTAL>
+      <APPLICATION_DATE>2009/08/04</APPLICATION_DATE>
+      <ISSUED_DATE>2009/08/17</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>
+        Permit for installation of 2 solar collectors (certified model number 09-148269-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 153185</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>11</STREET_NUM>
+      <STREET_NAME>SANDFORD</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/08/04</APPLICATION_DATE>
+      <ISSUED_DATE>2009/08/17</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors (certified model number 09-148269-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 153191</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>511</STREET_NUM>
+      <STREET_NAME>BROADVIEW</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/08/04</APPLICATION_DATE>
+      <ISSUED_DATE>2009/08/17</ISSUED_DATE>
+      <COMPLETED_DATE>2010/10/05</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors (certified model number 09-148269-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 155040</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>8</STREET_NUM>
+      <STREET_NAME>HUMEWOOD</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6C</POSTAL>
+      <APPLICATION_DATE>2009/08/08</APPLICATION_DATE>
+      <ISSUED_DATE>2009/08/12</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on the roof of the existing detached dwelling (certified model (08-148271) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 160244</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>24</STREET_NUM>
+      <STREET_NAME>KIMBERLEY</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2009/08/20</APPLICATION_DATE>
+      <ISSUED_DATE>2009/09/21</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/21</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>
+        Permit for installation of 2 solar collectors on roof of existing detached dwelling  (certified model 08-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 163859</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>14</STREET_NUM>
+      <STREET_NAME>EDGEWOOD</STREET_NAME>
+      <STREET_TYPE>CRES</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4W</POSTAL>
+      <APPLICATION_DATE>2009/08/31</APPLICATION_DATE>
+      <ISSUED_DATE>2009/09/22</ISSUED_DATE>
+      <STATUS>Work Not Started</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on roof of existing detached dwelling  (certified model 08-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 163896</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>15</STREET_NUM>
+      <STREET_NAME>HASTINGS</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/08/31</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/03</ISSUED_DATE>
+      <COMPLETED_DATE>2010/08/16</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on roof of existing detached dwelling  (certified model 09186269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 163937</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>373</STREET_NUM>
+      <STREET_NAME>PARKVIEW</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M2N</POSTAL>
+      <APPLICATION_DATE>2009/08/31</APPLICATION_DATE>
+      <ISSUED_DATE>2009/09/22</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on roof of existing detached dwelling  (certified model 08-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.existing SFD-detached dwelling.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 163962</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>39</STREET_NUM>
+      <STREET_NAME>GREENGATE</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M3B</POSTAL>
+      <APPLICATION_DATE>2009/08/31</APPLICATION_DATE>
+      <ISSUED_DATE>2009/09/22</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on roof of existing detached dwelling  (certified model 08-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. (2 solar collectors, 1 60 gallon tank and energy pack)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 166795</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>132</STREET_NUM>
+      <STREET_NAME>GLENMORE</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/09/09</APPLICATION_DATE>
+      <ISSUED_DATE>2009/09/22</ISSUED_DATE>
+      <COMPLETED_DATE>2012/07/23</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>
+        Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 166819</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>145</STREET_NUM>
+      <STREET_NAME>FULTON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/09/09</APPLICATION_DATE>
+      <ISSUED_DATE>2009/09/22</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on rear south facing portion of building (certified model 08-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 166933</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>143</STREET_NUM>
+      <STREET_NAME>GOULDING</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M2M</POSTAL>
+      <APPLICATION_DATE>2009/09/09</APPLICATION_DATE>
+      <ISSUED_DATE>2009/09/22</ISSUED_DATE>
+      <COMPLETED_DATE>2014/10/28</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on roof of south elevation of existing dwelling (certified model 08-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable hot water system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 166946</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>65</STREET_NUM>
+      <STREET_NAME>LAVINIA</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6S</POSTAL>
+      <APPLICATION_DATE>2009/09/09</APPLICATION_DATE>
+      <ISSUED_DATE>2009/09/22</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 175330</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>94</STREET_NUM>
+      <STREET_NAME>HIAWATHA</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/10/02</APPLICATION_DATE>
+      <ISSUED_DATE>2009/10/27</ISSUED_DATE>
+      <COMPLETED_DATE>2010/01/29</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of a solar hot water heating system and connection to potable water heating system (per Certified Plan 09-181272)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 181911</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>261</STREET_NUM>
+      <STREET_NAME>HAVELOCK</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6H</POSTAL>
+      <APPLICATION_DATE>2009/10/23</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/05</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (greensaver) (certified model number 09-148271-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 182935</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>60</STREET_NUM>
+      <STREET_NAME>ASHBURNHAM</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6H</POSTAL>
+      <APPLICATION_DATE>2009/10/27</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/05</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (greensaver) (certified model number 09-148271-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 182940</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>63</STREET_NUM>
+      <STREET_NAME>YARMOUTH</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6G</POSTAL>
+      <APPLICATION_DATE>2009/10/27</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/05</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (greensaver) (certified model number 09-148271-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 182944</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>52</STREET_NUM>
+      <STREET_NAME>ELM RIDGE</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6B</POSTAL>
+      <APPLICATION_DATE>2009/10/27</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/26</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (greensaver) (certified model number 09-148271-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 182954</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>43</STREET_NUM>
+      <STREET_NAME>GOVERNMENT</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M8X</POSTAL>
+      <APPLICATION_DATE>2009/10/27</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/06</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (greensaver) (certified model number 09-148271-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 182959</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>41</STREET_NUM>
+      <STREET_NAME>GOVERNMENT</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M8X</POSTAL>
+      <APPLICATION_DATE>2009/10/27</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/06</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (greensaver) (certified model number 09-148271-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 182964</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>27</STREET_NUM>
+      <STREET_NAME>BLACKBURN</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/10/27</APPLICATION_DATE>
+      <ISSUED_DATE>2009/10/29</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Nova Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 184942</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>42</STREET_NUM>
+      <STREET_NAME>HAMPTON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/11/03</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/04</ISSUED_DATE>
+      <COMPLETED_DATE>2010/03/24</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Nova Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 184957</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>136</STREET_NUM>
+      <STREET_NAME>CHATHAM</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/11/03</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/03</ISSUED_DATE>
+      <COMPLETED_DATE>2011/03/16</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>
+        Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.
+
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 185472</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>589</STREET_NUM>
+      <STREET_NAME>LOGAN</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/04</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/21</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Nova Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 185482</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>77</STREET_NUM>
+      <STREET_NAME>WINNIFRED</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/03</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/06</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 186576</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>247</STREET_NUM>
+      <STREET_NAME>BROADWAY</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4P</POSTAL>
+      <APPLICATION_DATE>2009/11/09</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/12</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 186794</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>25</STREET_NUM>
+      <STREET_NAME>BALSAM</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2009/11/09</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/12</ISSUED_DATE>
+      <COMPLETED_DATE>2010/10/06</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 186847</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>26</STREET_NUM>
+      <STREET_NAME>SANDBOURNE</STREET_NAME>
+      <STREET_TYPE>CRES</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M2J</POSTAL>
+      <APPLICATION_DATE>2009/11/10</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/13</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 186869</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>57</STREET_NUM>
+      <STREET_NAME>THATCHER</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1M</POSTAL>
+      <APPLICATION_DATE>2009/11/10</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/13</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/30</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 186870</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>61</STREET_NUM>
+      <STREET_NAME>ASHDALE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/11/10</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/12</ISSUED_DATE>
+      <COMPLETED_DATE>2011/03/23</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 186899</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>266</STREET_NUM>
+      <STREET_NAME>TORRENS</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/11/10</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/12</ISSUED_DATE>
+      <COMPLETED_DATE>2012/03/20</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 186926</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>1</STREET_NUM>
+      <STREET_NAME>PARK</STREET_NAME>
+      <STREET_TYPE>BLVD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M8W</POSTAL>
+      <APPLICATION_DATE>2009/11/10</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/13</ISSUED_DATE>
+      <COMPLETED_DATE>2010/08/10</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 186948</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>173</STREET_NUM>
+      <STREET_NAME>FULTON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/11/10</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/12</ISSUED_DATE>
+      <COMPLETED_DATE>2010/04/09</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Nova Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 187866</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>152</STREET_NUM>
+      <STREET_NAME>GLEDHILL</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2009/11/13</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/17</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-181272) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 187879</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>227</STREET_NUM>
+      <STREET_NAME>LOGAN</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/11/13</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/17</ISSUED_DATE>
+      <COMPLETED_DATE>2010/02/02</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-181272 ) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 188478</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>32</STREET_NUM>
+      <STREET_NAME>KENILWORTH</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/03</ISSUED_DATE>
+      <COMPLETED_DATE>2010/11/10</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 188485</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>118</STREET_NUM>
+      <STREET_NAME>HAMILTON</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/22</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 188492</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>Converted House</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>71</STREET_NUM>
+      <STREET_NAME>EATON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2010/04/20</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 189880</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>98</STREET_NUM>
+      <STREET_NAME>MEIGHEN</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4B</POSTAL>
+      <APPLICATION_DATE>2009/11/20</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/24</ISSUED_DATE>
+      <COMPLETED_DATE>2010/04/16</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 189922</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>5</STREET_NUM>
+      <STREET_NAME>BALFOUR</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2009/11/20</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/24</ISSUED_DATE>
+      <COMPLETED_DATE>2010/03/11</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 189926</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>83</STREET_NUM>
+      <STREET_NAME>ALDWYCH</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/11/20</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/24</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/22</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 190482</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>36 1/2</STREET_NUM>
+      <STREET_NAME>WARDELL</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/11/23</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/24</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/20</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Nova Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 190493</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>38</STREET_NUM>
+      <STREET_NAME>WARDELL</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/11/23</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/24</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/20</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Nova Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 190510</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>360</STREET_NUM>
+      <STREET_NAME>WOODFIELD</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/11/23</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/24</ISSUED_DATE>
+      <COMPLETED_DATE>2010/04/09</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Nova Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 191419</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>95</STREET_NUM>
+      <STREET_NAME>FRIZZELL</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/11/25</APPLICATION_DATE>
+      <ISSUED_DATE>2009/11/26</ISSUED_DATE>
+      <COMPLETED_DATE>2010/04/29</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Nova Solar) (certified model number 09-148268-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 191605</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>38</STREET_NUM>
+      <STREET_NAME>BALFOUR</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2009/11/26</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/02</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/05</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Skyline Solar) (certified model number 09- ) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 191625</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>72</STREET_NUM>
+      <STREET_NAME>SCOVILLE</STREET_NAME>
+      <STREET_TYPE>SQ</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1V</POSTAL>
+      <APPLICATION_DATE>2009/11/26</APPLICATION_DATE>
+      <ISSUED_DATE>2010/07/30</ISSUED_DATE>
+      <COMPLETED_DATE>2013/03/11</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>install solar water tank on roof ( the solar water tank is already installed on the roof E.O.Dec.9/09).</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 191634</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>78</STREET_NUM>
+      <STREET_NAME>DEARBOURNE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/11/26</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/02</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/10</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Skyline Solar) (certified model number 09- ) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 191849</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>36</STREET_NUM>
+      <STREET_NAME>SEYMOUR</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/11/27</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/02</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Enerworks) (certified model number 09-186400-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 192699</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>36</STREET_NUM>
+      <STREET_NAME>ASTLEY</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4W</POSTAL>
+      <APPLICATION_DATE>2009/12/01</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/23</ISSUED_DATE>
+      <COMPLETED_DATE>2010/01/20</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>
+        Proposal to install two solar tube exchangers @ 60 degree angle to existing flat roof assembly of single family dwelling.
+
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 192862</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>874</STREET_NUM>
+      <STREET_NAME>ROYAL YORK</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M8Y</POSTAL>
+      <APPLICATION_DATE>2009/12/01</APPLICATION_DATE>
+      <ISSUED_DATE>2014/04/07</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector system (Enerworks Inc) (certified model number 09- 148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 192907</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>54</STREET_NUM>
+      <STREET_NAME>PLAYTER</STREET_NAME>
+      <STREET_TYPE>BLVD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/12/01</APPLICATION_DATE>
+      <ISSUED_DATE>2010/04/26</ISSUED_DATE>
+      <COMPLETED_DATE>2010/07/29</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Enerworks Inc) (certified model number 09- 148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 193004</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>1802</STREET_NUM>
+      <STREET_NAME>GERRARD</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION>E</STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/12/01</APPLICATION_DATE>
+      <ISSUED_DATE>2010/04/26</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/26</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Enerworks Inc) (certified model number 09- 148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 193033</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>57</STREET_NUM>
+      <STREET_NAME>WINTHORPE</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2009/12/01</APPLICATION_DATE>
+      <ISSUED_DATE>2010/04/26</ISSUED_DATE>
+      <COMPLETED_DATE>2010/07/29</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Enerworks Inc) (certified model number 09- 148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 193196</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>Converted House</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>1055</STREET_NUM>
+      <STREET_NAME>CRAVEN</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/12/02</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/09</ISSUED_DATE>
+      <COMPLETED_DATE>2010/02/03</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>
+        Installation of a solar hot water heating system and connection to potable water heating system.
+        (Solar Boiler By: THERMO DYNAMICS Ltd) Certified model #09-181272
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 193199</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>427</STREET_NUM>
+      <STREET_NAME>CRAVEN</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/12/02</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/09</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>
+        Installation of a solar hot water heating system and connection to potable water heating system.
+        (Solar Boiler By: THERMO DYNAMICS Ltd) Certified model #09-181272
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 193203</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>77</STREET_NUM>
+      <STREET_NAME>BROADVIEW</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/12/02</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/09</ISSUED_DATE>
+      <COMPLETED_DATE>2010/01/29</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Solar Boiler) (certified model number 09-181272 ) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 194107</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>138</STREET_NUM>
+      <STREET_NAME>WESTLAKE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2009/12/04</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/09</ISSUED_DATE>
+      <COMPLETED_DATE>2011/01/26</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors system (Enerworks Inc) (certified model number 09- 148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 194116</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>217</STREET_NUM>
+      <STREET_NAME>LEE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2009/12/04</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/09</ISSUED_DATE>
+      <COMPLETED_DATE>2010/07/20</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Enerworks Inc) (certified model number 09- 148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 194164</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>37</STREET_NUM>
+      <STREET_NAME>SAMMON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/12/04</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/09</ISSUED_DATE>
+      <COMPLETED_DATE>2010/08/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Enerworks Inc) (certified model number 09- 148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 194354</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>139</STREET_NUM>
+      <STREET_NAME>BOARDWALK</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/12/07</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/09</ISSUED_DATE>
+      <COMPLETED_DATE>2010/07/20</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Enerworks Inc) (certified model number 09- 148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 196049</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>38</STREET_NUM>
+      <STREET_NAME>MURIEL</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/12/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/15</ISSUED_DATE>
+      <COMPLETED_DATE>2010/06/09</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 196081</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>22</STREET_NUM>
+      <STREET_NAME>MURIEL</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/12/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/15</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/28</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 196098</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>45</STREET_NUM>
+      <STREET_NAME>WINNIFRED</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/12/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/15</ISSUED_DATE>
+      <COMPLETED_DATE>2010/05/06</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 196108</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>11</STREET_NUM>
+      <STREET_NAME>LINNSMORE</STREET_NAME>
+      <STREET_TYPE>CRES</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>   </POSTAL>
+      <APPLICATION_DATE>2009/12/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/15</ISSUED_DATE>
+      <COMPLETED_DATE>2010/11/19</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 196117</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>51</STREET_NUM>
+      <STREET_NAME>CUMMINGS</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/12/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/15</ISSUED_DATE>
+      <COMPLETED_DATE>2010/06/04</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 196128</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>42</STREET_NUM>
+      <STREET_NAME>SEYMOUR</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/12/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/15</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/21</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 196135</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>197 1/2</STREET_NUM>
+      <STREET_NAME>JONES</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/12/11</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/15</ISSUED_DATE>
+      <COMPLETED_DATE>2010/07/19</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 196450</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>26</STREET_NUM>
+      <STREET_NAME>STAMFORD</STREET_NAME>
+      <STREET_TYPE>SQ</STREET_TYPE>
+      <STREET_DIRECTION>S</STREET_DIRECTION>
+      <POSTAL>M1L</POSTAL>
+      <APPLICATION_DATE>2009/12/14</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/16</ISSUED_DATE>
+      <COMPLETED_DATE>2010/10/20</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Enerworks Inc) (certified model number 09-148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 196467</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>16</STREET_NUM>
+      <STREET_NAME>WIGMORE</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4A</POSTAL>
+      <APPLICATION_DATE>2009/12/14</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/16</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/17</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Enerworks Inc) (certified model number 09-148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. (Sloped Roof)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 197646</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>16</STREET_NUM>
+      <STREET_NAME>ALBEMARLE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/12/17</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/29</ISSUED_DATE>
+      <COMPLETED_DATE>2010/06/01</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 197648</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>41</STREET_NUM>
+      <STREET_NAME>BUSHELL</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2009/12/17</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/29</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/15</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 197650</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>98</STREET_NUM>
+      <STREET_NAME>EATON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/12/17</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/29</ISSUED_DATE>
+      <COMPLETED_DATE>2010/04/20</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 197654</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>53</STREET_NUM>
+      <STREET_NAME>CAVELL</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2009/12/17</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/29</ISSUED_DATE>
+      <COMPLETED_DATE>2011/04/12</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 197656</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>165</STREET_NUM>
+      <STREET_NAME>KENILWORTH</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2009/12/17</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/29</ISSUED_DATE>
+      <COMPLETED_DATE>2010/07/02</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>09 198686</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>25</STREET_NUM>
+      <STREET_NAME>HAMPTON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2009/12/21</APPLICATION_DATE>
+      <ISSUED_DATE>2009/12/29</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/22</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 100364</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>35</STREET_NUM>
+      <STREET_NAME>WESTLAKE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/01/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/01/07</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (EWRA2-TEC/TEM) (09 148269) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 100408</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>237</STREET_NUM>
+      <STREET_NAME>LOGAN</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2010/01/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/01/07</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of solar collector system (Boss Solar) (certified model number 09-148268-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 101546</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>132</STREET_NUM>
+      <STREET_NAME>HEWARD</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4M</POSTAL>
+      <APPLICATION_DATE>2010/01/06</APPLICATION_DATE>
+      <ISSUED_DATE>2010/01/06</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/30</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Skyline Solar) (certified model number 09-186399 ) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 119667</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>2</STREET_NUM>
+      <STREET_NAME>PENTLY</STREET_NAME>
+      <STREET_TYPE>CRES</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1T</POSTAL>
+      <APPLICATION_DATE>2010/02/18</APPLICATION_DATE>
+      <ISSUED_DATE>2013/07/31</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>To install a solar hot water heater on the roof</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 123466</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>5</STREET_NUM>
+      <STREET_NAME>SANWOOD</STREET_NAME>
+      <STREET_TYPE>BLVD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1V</POSTAL>
+      <APPLICATION_DATE>2010/02/25</APPLICATION_DATE>
+      <COMPLETED_DATE>2016/12/01</COMPLETED_DATE>
+      <STATUS>Cancelled</STATUS>
+      <DESCRIPTION>install hot water on roof</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 125288</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>21</STREET_NUM>
+      <STREET_NAME>LANGLEY</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2010/03/02</APPLICATION_DATE>
+      <ISSUED_DATE>2010/03/10</ISSUED_DATE>
+      <COMPLETED_DATE>2010/10/05</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Installation of SDHW on roof  Certified Model 09-148-271</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 174324</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>Converted House</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>35</STREET_NUM>
+      <STREET_NAME>FOXBAR</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4V</POSTAL>
+      <APPLICATION_DATE>2010/05/13</APPLICATION_DATE>
+      <ISSUED_DATE>2010/05/21</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>
+        Proposal to install a rooftop solar domestic hot water system in an existing converted house, 3 units.
+
+        ( This model approved under # 09 - 148 269 )
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 178044</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>82</STREET_NUM>
+      <STREET_NAME>LANGLEY</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2010/05/19</APPLICATION_DATE>
+      <ISSUED_DATE>2010/06/08</ISSUED_DATE>
+      <COMPLETED_DATE>2010/10/28</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Proposal to install solar hot water heating system and connect to portable water heating system for existing single family semi-detached dwelling.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 178081</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>118</STREET_NUM>
+      <STREET_NAME>MERRILL</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION>E</STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/05/19</APPLICATION_DATE>
+      <ISSUED_DATE>2010/05/20</ISSUED_DATE>
+      <COMPLETED_DATE>2010/08/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Sunnyback) (certified model number 09-190093-02 ) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 213921</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>Converted House</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>17</STREET_NUM>
+      <STREET_NAME>ELM GROVE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6K</POSTAL>
+      <APPLICATION_DATE>2010/07/07</APPLICATION_DATE>
+      <ISSUED_DATE>2010/07/07</ISSUED_DATE>
+      <COMPLETED_DATE>2010/10/22</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector system (Skyline Solar) (certified model number 09-186399 ) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water. Converted House 2-Units. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 226781</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>96</STREET_NUM>
+      <STREET_NAME>GLENGARRY</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M5M</POSTAL>
+      <APPLICATION_DATE>2010/07/22</APPLICATION_DATE>
+      <ISSUED_DATE>2010/08/18</ISSUED_DATE>
+      <COMPLETED_DATE>2010/09/03</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Installation of solar hot water system, certified plans 09-148269-01</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 231266</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>92</STREET_NUM>
+      <STREET_NAME>CLEVELAND</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4S</POSTAL>
+      <APPLICATION_DATE>2010/07/30</APPLICATION_DATE>
+      <ISSUED_DATE>2010/08/03</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 231290</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>157</STREET_NUM>
+      <STREET_NAME>CAMBRIDGE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2010/07/30</APPLICATION_DATE>
+      <ISSUED_DATE>2010/07/30</ISSUED_DATE>
+      <COMPLETED_DATE>2015/07/23</COMPLETED_DATE>
+      <STATUS>Cancelled</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 240933</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>143</STREET_NUM>
+      <STREET_NAME>MACDONELL</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6R</POSTAL>
+      <APPLICATION_DATE>2010/08/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/08/17</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 268200</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>12</STREET_NUM>
+      <STREET_NAME>BLUEBERRY</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1S</POSTAL>
+      <APPLICATION_DATE>2010/09/29</APPLICATION_DATE>
+      <ISSUED_DATE>2015/03/19</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>rooftop solar panel</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 286975</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>126</STREET_NUM>
+      <STREET_NAME>EASTWOOD</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/10/28</APPLICATION_DATE>
+      <ISSUED_DATE>2010/10/29</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/12</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 286986</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>176</STREET_NUM>
+      <STREET_NAME>EASTWOOD</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/10/28</APPLICATION_DATE>
+      <ISSUED_DATE>2010/10/29</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/12</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 286997</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>111</STREET_NUM>
+      <STREET_NAME>BASTEDO</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/10/28</APPLICATION_DATE>
+      <ISSUED_DATE>2010/10/29</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/06</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 290891</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>40</STREET_NUM>
+      <STREET_NAME>RHODES</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/03</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/04/19</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291255</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>10</STREET_NUM>
+      <STREET_NAME>KERR</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/04/19</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291256</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>37</STREET_NUM>
+      <STREET_NAME>OAKCREST</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/12</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291285</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>50</STREET_NUM>
+      <STREET_NAME>MACLEAN</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291313</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>28</STREET_NUM>
+      <STREET_NAME>ALDRIDGE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/12</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291320</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>281</STREET_NUM>
+      <STREET_NAME>WILLOW</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/02</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291345</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>2317</STREET_NUM>
+      <STREET_NAME>GERRARD</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION>E</STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/09</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291362</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>261</STREET_NUM>
+      <STREET_NAME>WILLOW</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2013/03/21</COMPLETED_DATE>
+      <STATUS>Cancelled</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291407</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>304</STREET_NUM>
+      <STREET_NAME>WILLOW</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/02</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291499</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>324</STREET_NUM>
+      <STREET_NAME>WILLARD</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6S</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/15</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>
+        Proposed installation of a solar hot water heating systen on the roof of existing dwelling.
+        As per certified plan #09-148271-01.
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291502</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>55</STREET_NUM>
+      <STREET_NAME>NAIRN</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6E</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/15</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>
+        Proposed installation of a solar hot water heating systen on the roof of existing dwelling.
+        As per certified plan #09-148271-01.
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291509</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>15</STREET_NUM>
+      <STREET_NAME>FLORENCE</STREET_NAME>
+      <STREET_TYPE>CRES</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6N</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/15</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>
+        Proposed installation of a solar hot water heating systen on the roof of existing dwelling.
+        As per certified plan #09-148271-01.
+      </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291549</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>12</STREET_NUM>
+      <STREET_NAME>KINGSMOUNT PARK</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/12</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291607</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>131</STREET_NUM>
+      <STREET_NAME>BASTEDO</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/06/28</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291617</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>204</STREET_NUM>
+      <STREET_NAME>EMERSON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6H</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/04</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291622</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>60</STREET_NUM>
+      <STREET_NAME>MITCHELL</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6J</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/04</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291624</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>27</STREET_NUM>
+      <STREET_NAME>KNIGHT</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/04</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 291625</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>133</STREET_NUM>
+      <STREET_NAME>BASTEDO</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/11/04</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/05</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/12</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 297920</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>18</STREET_NUM>
+      <STREET_NAME>JUNIPER</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/10</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 297999</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>50</STREET_NUM>
+      <STREET_NAME>BARRINGTON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/06/29</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298367</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>249</STREET_NUM>
+      <STREET_NAME>CRAVEN</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/04/19</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298393</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>2001</STREET_NUM>
+      <STREET_NAME>GERRARD</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION>E</STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2013/03/21</COMPLETED_DATE>
+      <STATUS>Cancelled</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298459</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>129</STREET_NUM>
+      <STREET_NAME>ASHDALE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/04/19</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298475</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>110</STREET_NUM>
+      <STREET_NAME>PICKERING</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/09</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298482</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>38</STREET_NUM>
+      <STREET_NAME>ASHDALE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/04/19</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298491</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>207</STREET_NUM>
+      <STREET_NAME>RHODES</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/05/04</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298497</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Townhouse</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>116</STREET_NUM>
+      <STREET_NAME>PICKERING</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4E</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/09</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298500</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>395</STREET_NUM>
+      <STREET_NAME>KINGSTON</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/10</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298504</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>393</STREET_NUM>
+      <STREET_NAME>KINGSTON</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/10</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298507</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>208</STREET_NUM>
+      <STREET_NAME>OAKCREST</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/12</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298508</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>288 A</STREET_NUM>
+      <STREET_NAME>GAINSBOROUGH</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/12</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 298519</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>292</STREET_NUM>
+      <STREET_NAME>WAVERLEY</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2010/11/17</APPLICATION_DATE>
+      <ISSUED_DATE>2010/11/18</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 306699</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>116</STREET_NUM>
+      <STREET_NAME>QUEENSDALE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2010/12/01</APPLICATION_DATE>
+      <ISSUED_DATE>2010/12/06</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 306730</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>560</STREET_NUM>
+      <STREET_NAME>MILVERTON</STREET_NAME>
+      <STREET_TYPE>BLVD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/12/01</APPLICATION_DATE>
+      <ISSUED_DATE>2010/12/07</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 306738</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>25</STREET_NUM>
+      <STREET_NAME>WOODMOUNT</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/12/01</APPLICATION_DATE>
+      <ISSUED_DATE>2010/12/06</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 307636</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>222</STREET_NUM>
+      <STREET_NAME>SPRINGDALE</STREET_NAME>
+      <STREET_TYPE>BLVD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/12/02</APPLICATION_DATE>
+      <ISSUED_DATE>2010/12/07</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 307651</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>703</STREET_NUM>
+      <STREET_NAME>SAMMON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/12/02</APPLICATION_DATE>
+      <ISSUED_DATE>2010/12/07</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 307731</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>125</STREET_NUM>
+      <STREET_NAME>WOODMOUNT</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2010/12/02</APPLICATION_DATE>
+      <ISSUED_DATE>2010/12/07</ISSUED_DATE>
+      <COMPLETED_DATE>2011/07/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>10 317395</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>7</STREET_NUM>
+      <STREET_NAME>LANGLEY</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4K</POSTAL>
+      <APPLICATION_DATE>2010/12/20</APPLICATION_DATE>
+      <ISSUED_DATE>2010/12/20</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors (certified model number 09-148268-02-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 103643</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>45</STREET_NUM>
+      <STREET_NAME>WIGMORE</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4A</POSTAL>
+      <APPLICATION_DATE>2011/01/10</APPLICATION_DATE>
+      <ISSUED_DATE>2011/01/19</ISSUED_DATE>
+      <COMPLETED_DATE>2011/05/03</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 126702</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>37</STREET_NUM>
+      <STREET_NAME>DIXON</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2011/02/15</APPLICATION_DATE>
+      <ISSUED_DATE>2011/02/15</ISSUED_DATE>
+      <COMPLETED_DATE>2011/02/25</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collectors on south face of roof of the existing single family detached dwelling (Certified model 09-148269 CE) for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system. </DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 209828</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>Converted House</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>141</STREET_NUM>
+      <STREET_NAME>YARMOUTH</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6G</POSTAL>
+      <APPLICATION_DATE>2011/06/03</APPLICATION_DATE>
+      <ISSUED_DATE>2011/06/03</ISSUED_DATE>
+      <COMPLETED_DATE>2012/01/03</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 2 solar collector (certified model number 09-148268-02 PG) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 253699</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>186</STREET_NUM>
+      <STREET_NAME>MORNINGVIEW</STREET_NAME>
+      <STREET_TYPE>TRL</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1B</POSTAL>
+      <APPLICATION_DATE>2011/08/09</APPLICATION_DATE>
+      <ISSUED_DATE>2011/09/06</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Install solar electrical panels on roof</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 255357</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>19</STREET_NUM>
+      <STREET_NAME>FLUELLEN</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1W</POSTAL>
+      <APPLICATION_DATE>2011/08/11</APPLICATION_DATE>
+      <ISSUED_DATE>2011/08/26</ISSUED_DATE>
+      <COMPLETED_DATE>2013/03/18</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Rooftop solar panels for electricity</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 264148</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>255</STREET_NUM>
+      <STREET_NAME>MILVERTON</STREET_NAME>
+      <STREET_TYPE>BLVD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2011/08/26</APPLICATION_DATE>
+      <ISSUED_DATE>2011/08/29</ISSUED_DATE>
+      <COMPLETED_DATE>2011/09/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 264155</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>245</STREET_NUM>
+      <STREET_NAME>MILVERTON</STREET_NAME>
+      <STREET_TYPE>BLVD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4J</POSTAL>
+      <APPLICATION_DATE>2011/08/26</APPLICATION_DATE>
+      <ISSUED_DATE>2011/08/29</ISSUED_DATE>
+      <COMPLETED_DATE>2011/09/13</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 276164</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>29</STREET_NUM>
+      <STREET_NAME>HIAWATHA</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4L</POSTAL>
+      <APPLICATION_DATE>2011/09/16</APPLICATION_DATE>
+      <ISSUED_DATE>2011/09/16</ISSUED_DATE>
+      <COMPLETED_DATE>2012/05/04</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>Installation of certified solar domestic hot water system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 282285</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>29</STREET_NUM>
+      <STREET_NAME>JOANNA</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1R</POSTAL>
+      <APPLICATION_DATE>2011/09/27</APPLICATION_DATE>
+      <ISSUED_DATE>2011/11/02</ISSUED_DATE>
+      <COMPLETED_DATE>2013/03/01</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>install solar hot water system on roof</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 302088</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>152</STREET_NUM>
+      <STREET_NAME>RIDGEWOOD</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1C</POSTAL>
+      <APPLICATION_DATE>2011/10/31</APPLICATION_DATE>
+      <ISSUED_DATE>2011/11/10</ISSUED_DATE>
+      <COMPLETED_DATE>2011/11/17</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>solar rooftop panels</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>11 326620</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>371</STREET_NUM>
+      <STREET_NAME>ROUGE HIGHLANDS</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1C</POSTAL>
+      <APPLICATION_DATE>2011/12/15</APPLICATION_DATE>
+      <ISSUED_DATE>2012/04/03</ISSUED_DATE>
+      <COMPLETED_DATE>2015/11/17</COMPLETED_DATE>
+      <STATUS>Cancelled</STATUS>
+      <DESCRIPTION>Roof top solar panels for electrical</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>12 149889</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>9</STREET_NUM>
+      <STREET_NAME>REDLAND</STREET_NAME>
+      <STREET_TYPE>CRES</STREET_TYPE>
+      <STREET_DIRECTION>E</STREET_DIRECTION>
+      <POSTAL>M1M</POSTAL>
+      <APPLICATION_DATE>2012/04/05</APPLICATION_DATE>
+      <ISSUED_DATE>2012/05/11</ISSUED_DATE>
+      <COMPLETED_DATE>2014/10/30</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>PV Solar panels installed, on the south side on the existing roof</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>12 196161</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>63</STREET_NUM>
+      <STREET_NAME>BOWOOD</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4N</POSTAL>
+      <APPLICATION_DATE>2012/06/19</APPLICATION_DATE>
+      <ISSUED_DATE>2012/09/26</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Install one solar domestic hot water system for semi detched single family dwelling.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>12 262691</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>52</STREET_NUM>
+      <STREET_NAME>BELLAMY</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION>S</STREET_DIRECTION>
+      <POSTAL>M1M</POSTAL>
+      <APPLICATION_DATE>2012/10/15</APPLICATION_DATE>
+      <ISSUED_DATE>2012/11/16</ISSUED_DATE>
+      <COMPLETED_DATE>2015/02/09</COMPLETED_DATE>
+      <STATUS>Closed</STATUS>
+      <DESCRIPTION>solar panels for electricity</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>13 220758</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>256</STREET_NUM>
+      <STREET_NAME>COLERIDGE</STREET_NAME>
+      <STREET_TYPE>AVE</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2013/08/14</APPLICATION_DATE>
+      <ISSUED_DATE>2013/08/15</ISSUED_DATE>
+      <STATUS>Inspection</STATUS>
+      <DESCRIPTION>Permit for installation of 1 solar collector (certified model number 09-148271-01-CE) on roof of existing dwelling for solar hot water heating system. Refer to related plumbing application for connection to potable water heating system.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>14 133758</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Semi-Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>355</STREET_NUM>
+      <STREET_NAME>GRACE</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M6G</POSTAL>
+      <APPLICATION_DATE>2014/03/26</APPLICATION_DATE>
+      <ISSUED_DATE>2014/04/09</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Permit for installation of solar panels on roof of existing SFD.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>14 223030</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>55</STREET_NUM>
+      <STREET_NAME>GLADYS</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1C</POSTAL>
+      <APPLICATION_DATE>2014/09/16</APPLICATION_DATE>
+      <ISSUED_DATE>2014/10/06</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Proposed installation of rooftop solar panels to an existing detached SFD.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>15 165326</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>67</STREET_NUM>
+      <STREET_NAME>ROXBOROUGH</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION>W</STREET_DIRECTION>
+      <POSTAL>M5R</POSTAL>
+      <APPLICATION_DATE>2015/05/29</APPLICATION_DATE>
+      <ISSUED_DATE>2015/06/12</ISSUED_DATE>
+      <STATUS>Work Not Started</STATUS>
+      <DESCRIPTION>Installation of a Solar Domstic Hot Water system on the property&apos;s roof as part of existing ongoing construction under related application (Building Permit 13 258213 BLD NH)</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>15 173235</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>505</STREET_NUM>
+      <STREET_NAME>MAIN</STREET_NAME>
+      <STREET_TYPE>ST</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M4C</POSTAL>
+      <APPLICATION_DATE>2015/06/12</APPLICATION_DATE>
+      <ISSUED_DATE>2015/07/14</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Install solar panels on existing roof structure</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>16 163941</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>108</STREET_NUM>
+      <STREET_NAME>PENNYHILL</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1B</POSTAL>
+      <APPLICATION_DATE>2016/05/30</APPLICATION_DATE>
+      <ISSUED_DATE>2016/06/14</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Proposal to install roof-top solar panels on existing single family detached dwelling.</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>16 191294</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>75</STREET_NUM>
+      <STREET_NAME>BRIMLEY</STREET_NAME>
+      <STREET_TYPE>RD</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1M</POSTAL>
+      <APPLICATION_DATE>2016/07/15</APPLICATION_DATE>
+      <COMPLETED_DATE>2016/07/22</COMPLETED_DATE>
+      <STATUS>Cancelled</STATUS>
+      <DESCRIPTION>Installation of roof top solar panel</DESCRIPTION>
+    </ROW>
+    <ROW>
+      <PERMIT_NUM>16 197904</PERMIT_NUM>
+      <REVISION_NUM>00</REVISION_NUM>
+      <PERMIT_TYPE>Small Residential Projects</PERMIT_TYPE>
+      <STRUCTURE_TYPE>SFD - Detached</STRUCTURE_TYPE>
+      <WORK>Solar Domestic Hot Water (Res)</WORK>
+      <STREET_NUM>75</STREET_NUM>
+      <STREET_NAME>PRINCEWAY</STREET_NAME>
+      <STREET_TYPE>DR</STREET_TYPE>
+      <STREET_DIRECTION> </STREET_DIRECTION>
+      <POSTAL>M1R</POSTAL>
+      <APPLICATION_DATE>2016/07/27</APPLICATION_DATE>
+      <ISSUED_DATE>2016/08/18</ISSUED_DATE>
+      <STATUS>Permit Issued</STATUS>
+      <DESCRIPTION>Proposal to install roof-top solar panels on existing single family detached dwelling.</DESCRIPTION>
+    </ROW>
+  </ROWSET>
+</SOLARHOTWATER>

@@ -1,0 +1,41 @@
+﻿@model List<Data_Visualization.Models.station>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<html>
+<head>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxbnXlrWnKZgA3fLSvErTTgbElsN7WvYk&callback=initMap"
+            type="text/javascript"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load("current", {packages:["map"]});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+          var data = google.visualization.arrayToDataTable([
+            ['Lat', 'Long', 'Name'],
+
+          @foreach (var item in Model)
+          {
+
+              @:[@item.latitude, @item.longitude, "@item.name"],
+          }
+          ['43.639832', '-79.395954', 'Ft. York']
+        ]);
+
+          var map = new google.visualization.Map(document.getElementById('map_div'));
+        map.draw(data, {
+          showTooltip: true,
+          showInfoWindow: true,
+          zoomLevel: 13
+        });
+      }
+
+    </script>
+</head>
+
+<body>
+    <div id="map_div" style="width: 1200px; height: 800px"></div>
+</body>
+</html>
